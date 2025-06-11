@@ -1,7 +1,7 @@
 # User Profile System
 -----------
 ## Project Description
-This user profile system reviews a users data and supplies a series of appropriate responses using PHP conditional statements. This system utilises various aspects of PHP conditionals, including if-else statements, switch statements, and nested conditionals. 
+This user profile system reviews a user's data and supplies a series of appropriate responses using PHP conditional statements. This system utilises various aspects of PHP conditionals, including if-else statements, switch statements, and nested conditionals. 
 
 ### This Project Explores
 - Accessing and formatting dates and times
